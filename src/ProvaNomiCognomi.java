@@ -4,5 +4,5 @@ public class ProvaNomiCognomi {
 		System.out.println("Niso Luigi");
 		System.out.println("Bocco Jacopo CHAD");
 	}
-
+//ninonaso
 }
